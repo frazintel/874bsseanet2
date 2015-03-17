@@ -61,6 +61,8 @@ if ($config->showslider == '1') {
 
 
 
+
+
                 </div>
 
 
